@@ -1,5 +1,5 @@
 import pygame
-fron const import *
+from const import *
 
 class Dragger:
 	def __init__(self):
